@@ -27,6 +27,3 @@ THEN I find a concise, descriptive title
 *CSS
 
 ## Website
-
-
-## Credits
