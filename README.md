@@ -1,13 +1,14 @@
 # Module-1-Challenge
 Challenge for Module 1
 
-*Refactor the code for the Horiseon Webpage according to the user request*
+## Description
+Refactor the code for the Horiseon Webpage according to the user request below
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-*That meets the following acceptance criteria*
+That meets the following acceptance criteria provided
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -20,3 +21,12 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Built with
+*HTML
+*CSS
+
+## Website
+
+
+## Credits
