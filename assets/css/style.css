@@ -75,6 +75,15 @@ p {
     margin-left: 20px;
 }
 
+.content img {
+    max-height: 200px;
+}
+
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,15 +118,6 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.content img {
-    max-height: 200px;
-}
-
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .footer {
