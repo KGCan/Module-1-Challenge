@@ -27,3 +27,7 @@ THEN I find a concise, descriptive title
 *CSS
 
 ## Website
+https://kgcan.github.io/Module-1-Challenge/
+
+## ScreenCapture
+(.images/horiseonscreengrab.png)
